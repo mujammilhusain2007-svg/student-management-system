@@ -125,7 +125,5 @@ Frontend setup completed. Dashboard UI, backend APIs, and database integration a
 **Mujammil Husain**
 
 GitHub: [@mujammilhusain2007-svg](https://github.com/mujammilhusain2007-svg)
-
----
-
+Linkedin: https://www.linkedin.com/in/mujammil-husain 
 ⭐ If you find this project interesting, feel free to explore its development and progress.
